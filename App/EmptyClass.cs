@@ -10,6 +10,7 @@ namespace App
 
         public static void Main(){
             Console.Write("boom-boom");
+            Console.Read();
         }
     }
 }
