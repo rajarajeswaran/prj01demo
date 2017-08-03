@@ -9,7 +9,7 @@ namespace App
 
 
         public static void Main(){
-            Console.Write("boom");
+            Console.Write("boom-boom");
         }
     }
 }
